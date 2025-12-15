@@ -1,0 +1,15 @@
+{
+  "name": "nezha-agent-node",
+  "version": "1.0.0",
+  "description": "Nezha Agent Loader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
